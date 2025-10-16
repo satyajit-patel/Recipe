@@ -16,6 +16,8 @@ A smart recipe finder application that suggests recipes based on your available 
 - **AI**: Groq API with Llama 3.3 70B model via LangChain
 - **Styling**: Tailwind CSS with dark theme
 
+**Live link** [https://recipe-tawny-iota.vercel.app/](https://recipe-tawny-iota.vercel.app)
+
 ## Getting Started
 
 1. **Clone the repository**
